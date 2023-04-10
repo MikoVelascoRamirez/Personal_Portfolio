@@ -71,3 +71,10 @@ main{
   border: 1px solid white;
   z-index: 5;
 }
+
+main > #welcome-section{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
