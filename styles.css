@@ -38,3 +38,10 @@ body {
   position:sticky;
   top: 0;
 }
+
+#container header #navbar ul{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  width: 400px;
+}
