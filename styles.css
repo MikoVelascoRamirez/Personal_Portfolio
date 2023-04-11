@@ -78,3 +78,12 @@ main > #welcome-section{
   flex-direction: column;
   justify-content: center;
 }
+
+main > #welcome-section h1{
+  width: fit-content;
+  margin: -100px auto 0;
+  text-align: center;
+  color: var(--font-title-color);
+  font-size: 4em;
+  font-weight: 800;
+}
