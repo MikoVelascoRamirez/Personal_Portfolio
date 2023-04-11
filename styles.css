@@ -87,3 +87,10 @@ main > #welcome-section h1{
   font-size: 4em;
   font-weight: 800;
 }
+
+main > #welcome-section > h1 > span{
+  display: block;
+  font-size: 0.45em;
+  font-style: italic;
+  color: var(--text-color);
+}
