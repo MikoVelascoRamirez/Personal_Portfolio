@@ -95,3 +95,13 @@ main > #welcome-section > h1 > span{
   font-style: italic;
   color: var(--text-color);
 }
+
+/* Main -> Projects section */
+main > #projects-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-inline: 20px;
+  background: var(--projects-section-color);
+  height: fit-content;
+}
