@@ -154,3 +154,8 @@ main > #projects-section #projects{
 .project-tile p{
   margin-inline: 5px;
 }
+
+.project-tile-name .close::before{ 
+  content: "/";
+  font-size: 1em;
+}
