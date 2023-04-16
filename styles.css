@@ -151,3 +151,6 @@ main > #projects-section #projects{
   padding-block: 20px;
   background-color: rgb(27, 136, 182);
 }
+.project-tile p{
+  margin-inline: 5px;
+}
