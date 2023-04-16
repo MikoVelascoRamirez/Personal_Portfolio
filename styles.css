@@ -176,3 +176,5 @@ main > #projects-section #projects{
 #projects-section span{
   font-size: 1.3em;
 }
+
+#projects-section span { margin-left: 5px; }
