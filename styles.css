@@ -135,6 +135,13 @@ main > #projects-section #projects{
   object-fit: cover;
 }
 
+.project-tile-name > *{ 
+  color: black;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: var(--text-color);
+}
+
 #projects-section 
 #projects 
 .project-tile 
