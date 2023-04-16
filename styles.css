@@ -171,3 +171,8 @@ main > #projects-section #projects{
   color: var(--text-color);
   padding: 8px 20px 10px;
 }
+
+#projects-section a,
+#projects-section span{
+  font-size: 1.3em;
+}
