@@ -183,3 +183,8 @@ i{
   vertical-align: middle;
   font-weight: bold;
 }
+
+.fa-chevron-right:before{
+  font-size: 22px;
+  font-weight: bolder;
+}
