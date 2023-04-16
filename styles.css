@@ -159,3 +159,8 @@ main > #projects-section #projects{
   content: "/";
   font-size: 1em;
 }
+
+.project-tile-name .tag{
+  /* display: none; */
+  color: var(--projects-section-color);
+}
