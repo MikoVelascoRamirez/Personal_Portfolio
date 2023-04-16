@@ -178,3 +178,8 @@ main > #projects-section #projects{
 }
 
 #projects-section span { margin-left: 5px; }
+
+i{
+  vertical-align: middle;
+  font-weight: bold;
+}
