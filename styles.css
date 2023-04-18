@@ -204,6 +204,12 @@ main #social-media{
   justify-content: center;
 }
 
+main
+#social-media >
+:not(#social-media-links){
+  color: var(--text-color);
+}
+/* Footer */
 #container footer{
   display: flex;
   justify-content: space-between;
@@ -222,4 +228,8 @@ main #social-media{
 #container footer,
 #container footer a{
   color: #fff;
+}main 
+#social-media > 
+:not(#social-media-links){
+  color: var(--text-color);  
 }
