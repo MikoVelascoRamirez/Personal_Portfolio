@@ -64,6 +64,9 @@ header #navbar ul li:hover{
 }
 
 header #navbar ul li {
+  display: flex;
+  align-items: center;
+  padding: 20px 15px;
   list-style: none;
   font-size: 1.3em;
 }
