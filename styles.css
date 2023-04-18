@@ -209,6 +209,12 @@ main
 :not(#social-media-links){
   color: var(--text-color);
 }
+
+main #social-media h2{
+  font-size: 4em;
+  font-weight: 800;
+}
+
 /* Footer */
 #container footer{
   display: flex;
