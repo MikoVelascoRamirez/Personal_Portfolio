@@ -215,6 +215,12 @@ main #social-media h2{
   font-weight: 800;
 }
 
+main #social-media p{
+  font-style: italic;
+  font-weight: 200;
+  font-size: 1.25em;
+}
+
 /* Footer */
 #container footer{
   display: flex;
