@@ -230,6 +230,14 @@ main #social-media #social-media-links{
   margin-top: 50px;
 }
 
+main
+#social-media
+#social-media-links
+.contact a{
+  color: var(--text-color);
+  vertical-align: middle;
+}
+
 /* Footer */
 #container footer{
   display: flex;
