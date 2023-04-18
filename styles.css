@@ -214,3 +214,7 @@ main #social-media{
   background-color: #303841;
 }
 
+#container footer p{
+  font-size: 0.5em;
+  text-align: center;
+}
