@@ -245,6 +245,13 @@ main
   font-size: 1.5em;
 }
 
+main
+#social-media
+#social-media-links
+span i[class^="fa"]::before{
+  font-size: 1.5em;
+}
+
 /* Footer */
 #container footer{
   display: flex;
@@ -264,8 +271,4 @@ main
 #container footer,
 #container footer a{
   color: #fff;
-}main 
-#social-media > 
-:not(#social-media-links){
-  color: var(--text-color);  
 }
