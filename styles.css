@@ -189,4 +189,14 @@ i{
 .fa-chevron-right:before{
   font-size: 22px;
   font-weight: bolder;
+}/* Footer */
+#container footer{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 40px 45px;
+  font-size: 2em;
+  border-top: 5px solid var(--font-title-color);
+  background-color: #303841;
 }
+
