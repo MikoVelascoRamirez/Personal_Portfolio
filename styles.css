@@ -221,6 +221,15 @@ main #social-media p{
   font-size: 1.25em;
 }
 
+main #social-media #social-media-links{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 70%;
+  padding-inline: 30px;
+  margin-top: 50px;
+}
+
 /* Footer */
 #container footer{
   display: flex;
