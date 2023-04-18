@@ -67,13 +67,7 @@ header #navbar ul li {
 
 /* Main section */
 
-main{
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  /* border: 1px solid white; */
-  z-index: 5;
-}
+main{ width: 100%; }
 
 main > #welcome-section{
   height: 100vh;
