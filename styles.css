@@ -238,6 +238,13 @@ main
   vertical-align: middle;
 }
 
+main
+#social-media
+#social-media-links
+.contact a span{
+  font-size: 1.5em;
+}
+
 /* Footer */
 #container footer{
   display: flex;
