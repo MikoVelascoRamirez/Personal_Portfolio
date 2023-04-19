@@ -333,4 +333,7 @@ span i[class^="fa"]::before{
     flex-direction: column;
   }
 
+  #container footer p:last-child{
+    margin-top: 20px;
+  }
 }
