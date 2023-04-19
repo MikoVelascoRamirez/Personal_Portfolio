@@ -328,4 +328,9 @@ span i[class^="fa"]::before{
     justify-content: space-between;
   }
 
+  #container footer{
+    display: flex;
+    flex-direction: column;
+  }
+
 }
