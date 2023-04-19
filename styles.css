@@ -259,6 +259,7 @@ main
 #social-media
 #social-media-links
 .contact a{
+  transition: all 0.3s ease-out;
   color: var(--text-color);
   vertical-align: middle;
 }
@@ -268,6 +269,13 @@ main
 #social-media-links
 .contact:hover{
   transform: translateX(10px);
+}
+
+main
+#social-media
+#social-media-links
+.contact a:hover{
+  color: var(--font-title-color);
 }
 
 main
