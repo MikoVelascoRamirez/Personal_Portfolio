@@ -178,6 +178,12 @@ main > #projects-section #projects{
   padding: 8px 20px 10px;
 }
 
+/* Animation on profile-link button */
+#projects-section #profile-link:hover{
+  background-color: var(--font-title-color);
+  transform: translateY(15px);
+}
+
 #projects-section #profile-link,
 #projects-section span{
   font-size: 1.3em;
