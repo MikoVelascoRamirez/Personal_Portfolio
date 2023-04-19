@@ -315,3 +315,17 @@ span i[class^="fa"]::before{
 #container footer a{
   color: #fff;
 }
+
+/* Media Queries */
+@media (max-width: 600px) {
+  main
+  > #social-media
+  > #social-media-links{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+}
