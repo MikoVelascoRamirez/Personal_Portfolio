@@ -251,9 +251,23 @@ main #social-media #social-media-links{
 main
 #social-media
 #social-media-links
+.contact{
+  transition: all 0.3s ease-out;
+}
+
+main
+#social-media
+#social-media-links
 .contact a{
   color: var(--text-color);
   vertical-align: middle;
+}
+
+main
+#social-media
+#social-media-links
+.contact:hover{
+  transform: translateX(10px);
 }
 
 main
